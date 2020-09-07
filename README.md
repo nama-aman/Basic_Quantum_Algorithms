@@ -2,7 +2,10 @@
 
 Basics Algorithms in Quantum Computing using qiskit library
 
-For better rendering of the notebooks, use this [link](https://nbviewer.jupyter.org/github/nama-aman/Basic_Quantum_Algorithms/tree/master/)
+For better rendering of the notebooks, use this npviewer [link](https://nbviewer.jupyter.org/github/nama-aman/Basic_Quantum_Algorithms/tree/master/)
+
+### Teleportation Gif
+![teleportation.gif](figures/teleporatation.gif)
 
 ### Sources:
 - [Qiskit textbook](https://qiskit.org/textbook/preface.html)
